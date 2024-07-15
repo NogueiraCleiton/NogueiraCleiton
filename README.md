@@ -1,6 +1,5 @@
 ## Homens e maquinas em constante evolução 
-- 🔭 Trabalho com analise de dados e automações de tarefas com Python
-- 🌱 Estudando automação de tarefas na web com a biblioteca Selenium 
+Formado e Atuando na área de automação industrial desde 2017, trago comigo uma combinação de habilidades técnicas e interpessoais que me permitem entregar soluções web completas. Atualmente, estou em transição para a área de TI, atuando com desenvolvimento web e análise de dados, possuo experiência em desenvolvimento frontend, ferramentas de BI e Python
 <div style="display: inline_block"><br>
             <img align="center" alt="Cleiton-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />        
             <img align="center" alt="Cleiton-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
